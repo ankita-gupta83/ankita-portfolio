@@ -25,6 +25,10 @@ A modern and responsive personal portfolio website built to showcase my projects
 - Contact Section
 - Optimized Performance with Vite
 
+## Live Demo
+
+[View Portfolio](https://ankita-portfolio-eight.vercel.app)
+
 ## Screenshots
 
 ### Homepage
@@ -94,8 +98,7 @@ Ankita Gupta
 
 - GitHub: https://github.com/ankita-gupta83
 - LinkedIn: https://linkedin.com/in/ankita-gupta004
-<!-- - Portfolio: https://your-vercel-link.vercel.app -->
-
+- Portfolio: https://ankita-portfolio-eight.vercel.app
 
 
 ##  If you like this project

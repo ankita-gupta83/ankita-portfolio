@@ -63,7 +63,7 @@ const Hero = () => {
 
                         <button
                             onClick={() => {
-                                window.open("/resume.pdf", "_blank");
+                                window.open("/Ankita_Gupta_Resume.pdf", "_blank");
                             }}
                             className="px-6 py-3 rounded-lg border border-white/20 hover:bg-white/10 transition">
                             View Resume
