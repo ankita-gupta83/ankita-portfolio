@@ -25,7 +25,7 @@ const skillsData = [
   {
     title: "Tools & DevOps",
     icon: <FaGitAlt className="text-4xl mx-auto mb-3 text-orange-400" />,
-    skills: ["Git", "GitHub", "Postman", "VS Code"]
+    skills: ["Git", "GitHub", "Postman", "VS Code", "AI assisted development tools"]
   },
   {
     title: "UI & Design",
